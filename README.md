@@ -1,4 +1,5 @@
 # Reproducibility Files
+# [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7462078.svg)](https://doi.org/10.5281/zenodo.7462078)
 
 ### Uccheddu, Damiano, Anne H. Gauthier, Nardi Steverink, and Tom Emery. ‘The Pains and Reliefs of the Transitions into and out of Spousal Caregiving. A Cross-National Comparison of the Health Consequences of Caregiving by Gender’. *Social Science & Medicine* 240 (2019b): 112517. https://doi.org/10.1016/j.socscimed.2019.112517.
 
