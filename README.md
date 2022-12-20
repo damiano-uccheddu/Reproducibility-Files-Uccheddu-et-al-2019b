@@ -16,7 +16,7 @@
 
 # Notes:
 - The do-file "[NIDI-CREW] - 02 - Second Paper - Dataset Creation.do" merges and appends all the necessary modules and waves of SHARE, creating a dataset in long format
-- The do-file "[NIDI-CREW] - 02 - Second Paper - Data Cleaning.do" cleans the dataset, harmonizes some variables, create the independent and dependent variables, and select only the necessary variables that will be used in the main analysis. 
+- The do-file "[NIDI-CREW] - 02 - Second Paper - Data Cleaning.do" cleans the dataset, harmonizes some variables, creates the independent and dependent variables, and selects only the necessary variables that will be used in the main analysis. 
 - The do-file "[NIDI-CREW] - 02 - Second Paper - Data Analysis.do" performs the analyses included in the study and the robustness checks asked by the reviewers. It also includes the "results available upon request" mentioned in the paper. 
-- The tables will be showed in the Excel file "Tables.xlsx" contained within the folder "C:/Users/[your_username]/[your_path]/Data Analysis/Output folder/Tables"
-- The figures will be showed in the folder "C:/Users/[your_username]/[your_path]/Data Analysis/Output folder/Figures"
+- The tables will be shown in the Excel file "Tables.xlsx" contained within the folder "C:/Users/[your_username]/[your_path]/Data Analysis/Output folder/Tables"
+- The figures will be shown in the folder "C:/Users/[your_username]/[your_path]/Data Analysis/Output folder/Figures"
